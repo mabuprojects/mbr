@@ -1,0 +1,9 @@
+[submodule "mbr-privateApp"]
+	path = mbr-privateApp
+	url = https://github.com/mabuprojects/mbr-privateApp
+[submodule "mbr-publicApp"]
+	path = mbr-publicApp
+	url = https://github.com/mabuprojects/mbr-publicApp
+[submodule "mbr-backend"]
+	path = mbr-backend
+	url = https://github.com/mabuprojects/mbr-backend
